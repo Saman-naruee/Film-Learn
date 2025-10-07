@@ -1,0 +1,8 @@
+env/
+*.pyc
+venv/
+.env
+.venv
+sqlite*
+*_prompt.txt
+*_prompt.md
