@@ -6,3 +6,5 @@ venv/
 sqlite*
 *_prompt.txt
 *_prompt.md
+.github/copilot-instructions.md
+
